@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css?family=Arvo|Saira+Extra+Condensed');
+
+body{
+		background-color: #00000c;
+		font-family: "Saira Extra Condensed","Comic Sans MS", sans-serif;
+        width: 100%;
+        text-align: center;
+        color: #c6baba;
+        font-size: 30px
+ }
+
+p{
+	font-family: "Arvo","Comic Sans MS";
+	color: white;
+	font-size:20px
+}
+
+h6{
+	font-family: "Saira Extra Condensed";
+	font-size: 55px;
+	color: #d9f138
+}
+
+a:link {
+    color: #00ffff; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: #adff2f;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #e0ffff;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #eeee68;
+    background-color: transparent;
+    text-decoration: underline;
+}
